@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "651825266961",
+    "project_id": "breej-stores-980cd",
+    "storage_bucket": "breej-stores-980cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651825266961:android:fa6d063661cc8d46a84cb0",
+        "android_client_info": {
+          "package_name": "breej.store.breejmerchant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "651825266961-fp17fsdje8u6bnvc4m3a095brkbpun4v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDNcSwZ7BVKmFrgCUZO5pOWX-_Bt3S-fw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "651825266961-fp17fsdje8u6bnvc4m3a095brkbpun4v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

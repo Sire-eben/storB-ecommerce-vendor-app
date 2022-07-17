@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>651825266961-ck11hjp1ers49sg424l7v8imh7htf71d.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.651825266961-ck11hjp1ers49sg424l7v8imh7htf71d</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCT0voI5Y21vhg4cIU5JZZxFr1cbRMiA2U</string>
+	<key>GCM_SENDER_ID</key>
+	<string>651825266961</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.sellersApp</string>
+	<key>PROJECT_ID</key>
+	<string>breej-stores-980cd</string>
+	<key>STORAGE_BUCKET</key>
+	<string>breej-stores-980cd.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:651825266961:ios:faf2eb5b556722b1a84cb0</string>
+</dict>
+</plist>
